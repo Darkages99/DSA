@@ -109,4 +109,5 @@ class List:
                     if self.list[temp].value != None:
                          print(self.list[temp].value)
                     temp = self.list[temp].pointer
+
                return True
